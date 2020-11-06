@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="card">
-                    <img class="card-img-top" src="img/song/01.jpg">
+                    <img class="card-img-top" src="01.jpg">
                     <div class="card-body">
                         <h4class="card-title">8TEEN</h4>
                         <p class="card-text">Lyrics
@@ -26,7 +26,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="card">
-                    <img class="card-img-top" src="img/song/02.jpg">
+                    <img class="card-img-top" src="02.jpg">
                     <div class="card-body">
                         <h4class="card-title">MY FAVORITE CLOTHES</h4>
                         <p class="card-text">Lyrics
@@ -38,7 +38,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="card">
-                    <img class="card-img-top" src="img/song/chivalry.jpg">
+                    <img class="card-img-top" src="chivalry.jpg">
                     <div class="card-body">
                         <h4class="card-title">CHIVALRY DEAD</h4>
                         <p class="card-text">Lyrics
