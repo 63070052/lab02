@@ -11,16 +11,16 @@
     <div class="container">
         <div class="row">
             <div class="col-md-5 col-lg-30">
-                <img src="img/creative/creative5.jpg" style="height: 600px; width: 100%;" class="img-fluid">
+                <img src="creative5.jpg" style="height: 600px; width: 100%;" class="img-fluid">
             </div>
             <div class="col-sm-4">
-                <img src="img/content/office16.jpg"  style="height: 200px; width: 100%;" class="img-fluid rounded" />
-                <img src="img/content/office18.jpg"  style="height: 200px; width: 100%;" class="img-fluid rounded" />
-                <img src="img/content/office10.jpg"  style="height: 200px; width: 100%;" class="img-fluid rounded" />
+                <img src="office16.jpg"  style="height: 200px; width: 100%;" class="img-fluid rounded" />
+                <img src="office18.jpg"  style="height: 200px; width: 100%;" class="img-fluid rounded" />
+                <img src="office10.jpg"  style="height: 200px; width: 100%;" class="img-fluid rounded" />
             </div>
             <div class="col-md-3">
-                <img src="img/banner/banner11.jpg" style="height: 400px; width: 100%;" class="img-fluid" />
-                <img src="img/work/work4.jpg" style="height: 200px; width: 100%;" class="img-fluid" />
+                <img src="banner11.jpg" style="height: 400px; width: 100%;" class="img-fluid" />
+                <img src="work4.jpg" style="height: 200px; width: 100%;" class="img-fluid" />
             </div>
         </div> <!-- Close Row 2 -->
     </div> <!-- Close container -->
